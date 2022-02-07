@@ -15,4 +15,5 @@
 2. 使用SORT算法进行目标追踪，使用卡尔曼滤波器进行目标位置预测，并利用匈牙利算法对比目标的相似度，完成车辆目标追踪，
 3. 利用虚拟线圈的思想实现车辆目标的计数，完成车流量的统计。
 
+项目流程图如下：
 ![](https://github.com/GeniusAng/MultiCarDetection/blob/main/ScreenShots/%E8%BD%A6%E6%B5%81%E9%87%8F%E6%A3%80%E6%B5%8B.png)
